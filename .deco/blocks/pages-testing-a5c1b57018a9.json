@@ -14,7 +14,7 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<iframe width=\"695\" height=\"391\" src=\"https://www.youtube.com/embed/tzLiBLUD2uc\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "title": "<iframe width=\"695\" height=\"391\" src=\"https://www.youtube.com/embed/tzLiBLUD2uc\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\r\n<br>\r\n<img style=\"text-align:center;display:inline-block;\" src=\"https://sites-seducaosecretas--staging.decocdn.com/live/invoke/website/loaders/image.ts?src=https%3A%2F%2Fwww.mulhersecreta.com.br%2Fwp-content%2Fwebp-express%2Fwebp-images%2Fuploads%2F2021%2F09%2Fcartoes.png.webp&fit=cover&width=640\">",
       "placement": "left",
       "cta": [
         {
@@ -25,14 +25,6 @@
         }
       ],
       "description": "preste bastante atenção!"
-    },
-    {
-      "__resolveType": "site/sections/Hero.tsx",
-      "title": "",
-      "placement": "left",
-      "cta": [],
-      "description": " ",
-      "image": "https://www.mulhersecreta.com.br/wp-content/webp-express/webp-images/uploads/2021/09/cartoes.png.webp"
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
@@ -50,15 +42,7 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p></p>",
-      "placement": "left",
-      "cta": [],
-      "description": " ",
-      "image": "https://www.mulhersecreta.com.br/wp-content/webp-express/webp-images/uploads/2021/09/cartoes.png.webp"
-    },
-    {
-      "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p><img src=\"https://www.mulhersecreta.com.br/wp-content/uploads/2021/08/depoimentos.png\"></p>\r\n<br>\r\n<a class=\"botao\" href=\"https://pay.hotmart.com/I91908162M?off=vaebke23&_hi=eyJjaWQiOiIxNzE4OTI0MjY3MjQ5MzM5OTY1OTk4NTY1MTY3NTAwIiwiYmlkIjoiMTcxODkyNDI2NzI0OTMzOTk2NTk5ODU2NTE2NzUwMCIsInNpZCI6IjMxNDI2NDU4MTk3ZjQyZTlhYTVjN2Y5NjU0MGZiODU5In0=.1719950926227\" target=\"_blank\">Conheça as Chaves da sedução agora!</a>\r\n",
+      "title": "<p><img src=\"https://www.mulhersecreta.com.br/wp-content/uploads/2021/08/depoimentos.png\"></p>\r\n<br>\r\n<img style=\"display:inline-block;text-align:center;\" src=\"https://sites-seducaosecretas--staging.decocdn.com/live/invoke/website/loaders/image.ts?src=https%3A%2F%2Fwww.mulhersecreta.com.br%2Fwp-content%2Fwebp-express%2Fwebp-images%2Fuploads%2F2021%2F09%2Fcartoes.png.webp&fit=cover&width=640\">\r\n<a class=\"botao\" href=\"https://pay.hotmart.com/I91908162M?off=vaebke23&_hi=eyJjaWQiOiIxNzE4OTI0MjY3MjQ5MzM5OTY1OTk4NTY1MTY3NTAwIiwiYmlkIjoiMTcxODkyNDI2NzI0OTMzOTk2NTk5ODU2NTE2NzUwMCIsInNpZCI6IjMxNDI2NDU4MTk3ZjQyZTlhYTVjN2Y5NjU0MGZiODU5In0=.1719950926227\" target=\"_blank\">Conheça as Chaves da sedução agora!</a>\r\n",
       "placement": "left",
       "cta": [],
       "description": "  "
