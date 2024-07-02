@@ -16,7 +16,13 @@
       "__resolveType": "site/sections/Hero.tsx",
       "title": "<iframe width=\"695\" height=\"391\" src=\"https://www.youtube.com/embed/tzLiBLUD2uc\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "placement": "left",
-      "cta": [],
+      "cta": [
+        {
+          "href": "https://pay.hotmart.com/I91908162M?off=ce95alhu&_hi=eyJjaWQiOiIxNzE4OTI0MjY3MjQ5MzM5OTY1OTk4NTY1MTY3NTAwIiwiYmlkIjoiMTcxODkyNDI2NzI0OTMzOTk2NTk5ODU2NTE2NzUwMCIsInNpZCI6IjMxNDI2NDU4MTk3ZjQyZTlhYTVjN2Y5NjU0MGZiODU5In0=.1719949280017",
+          "id": "compra",
+          "text": "Quero mudar de vida!"
+        }
+      ],
       "description": "preste bastante atenção!"
     },
     {

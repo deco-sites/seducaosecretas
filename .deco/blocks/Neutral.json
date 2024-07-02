@@ -16,9 +16,9 @@
   },
   "mainColors": {
     "base-100": "rgb(16,8,40)",
-    "primary": "#171717",
-    "secondary": "#c7c7c7",
-    "tertiary": "#404040",
+    "primary": "#ff47c5",
+    "secondary": "#fb29ff",
+    "tertiary": "#f547ad",
     "neutral": "#333333",
     "success": "#008060",
     "warning": "#ffc453",
