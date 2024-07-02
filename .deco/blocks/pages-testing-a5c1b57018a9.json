@@ -20,7 +20,8 @@
         {
           "href": "https://pay.hotmart.com/I91908162M?off=ce95alhu&_hi=eyJjaWQiOiIxNzE4OTI0MjY3MjQ5MzM5OTY1OTk4NTY1MTY3NTAwIiwiYmlkIjoiMTcxODkyNDI2NzI0OTMzOTk2NTk5ODU2NTE2NzUwMCIsInNpZCI6IjMxNDI2NDU4MTk3ZjQyZTlhYTVjN2Y5NjU0MGZiODU5In0=.1719949280017",
           "id": "compra",
-          "text": "Quero mudar de vida!"
+          "text": "Quero mudar de vida!",
+          "outline": false
         }
       ],
       "description": "preste bastante atenção!"
@@ -29,11 +30,7 @@
       "__resolveType": "site/sections/Logos.tsx"
     },
     {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx"
-    },
-    {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "placement": "right"
+      "__resolveType": "Preview /sections/Hero.tsx"
     },
     {
       "__resolveType": "site/sections/Faq.tsx"
