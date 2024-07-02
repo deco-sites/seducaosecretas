@@ -49,7 +49,11 @@
       "description": "."
     },
     {
-      "__resolveType": "Footer"
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<div class=\"container-mulher\">\r\n  <img style=\"width:200px:height:200px;border-radius:50%;\" src=\"https://st3.depositphotos.com/3591429/14435/i/450/depositphotos_144353503-stock-photo-woman-holding-broken-heart.jpg\">\r\n\r\n   <div style=\"padding:30px;\" class=\"content\">\r\n      <p>Você já <span style=\"color:pink;\">sofreu</span> algumas dessas situações com um homem?</p>\r\n     \r\n\r\n      <ul style=\"font-size:15px; padding:50px;\">\r\n        <li style=\"color:pink;\">Senti-lo repetinamente distante e não entender o porquê..</li>\r\n        <br>\r\n        <li style=\"color:pink;\">Vê-lo dar atenção para todo mundo, menos você...</li>\r\n<br>\r\n<li style=\"color:pink;\">se sentindo insegura pensando se ele realmente está sendo verdadeiro e fiel com você...</li>\r\n      </ul>\r\n\r\n      <p style=\"padding:40px;\">Você não merece isso, e temos uma boa notícia...</p>\r\n\r\n      <p style=\"font-size:16px;line-height:1.1em; text-align:left;\">Todas essas dores e sentimentos ruins podem se transformar em uma incrivel jornada romântica quando você despertar o \"Instinto do Herói!\" de um homem, utilizando <span style=\"color:pink;\">Os Códigos Secretos</span></p>\r\n      <br>\r\n<p style=\"font-size:16px;line-height:1.1em; text-align:left;\">Os homens não são tão visuais como você imagina... e dá para conquistálos ativando uma obsessão secreta masculina que irá despertar um instinto primitivo capaz de deixá-lo bem <span style=\"color:pink;\">nas palmas de suas mãos...<span></p>\r\n   </div>\r\n</div>",
+      "placement": "left",
+      "cta": [],
+      "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
