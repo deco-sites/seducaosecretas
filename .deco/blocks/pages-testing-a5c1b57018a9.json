@@ -46,7 +46,7 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p><img src=\"https://www.mulhersecreta.com.br/wp-content/uploads/2021/08/depoimentos.png\"></p>\r\n<br>\r\n<img style=\"display:inline-block;text-align:center;\" src=\"https://sites-seducaosecretas--staging.decocdn.com/live/invoke/website/loaders/image.ts?src=https%3A%2F%2Fwww.mulhersecreta.com.br%2Fwp-content%2Fwebp-express%2Fwebp-images%2Fuploads%2F2021%2F09%2Fcartoes.png.webp&fit=cover&width=640\">\r\n<br>\r\n<a class=\"botao\" href=\"https://go.hotmart.com/I84464344X\" target=\"_blank\">QUERO ACESSO AO SEDUÇÃO SECRETA AGORA!</a>\r\n",
+      "title": "<div style=\"background-color:purple;display:block;width:100%;border-radius:7px;box-shadow:0px 2px 10px purple;\" class=\"container\">\r\n  <p style=\"font-size:24px;\">Veja com seus <span style=\"color:pink;\">Próprios</span> Olhos, Resultados de nossas alunas!<p>\r\n</div>\r\n<p><img src=\"https://www.mulhersecreta.com.br/wp-content/uploads/2021/08/depoimentos.png\"></p>\r\n<br>\r\n<img style=\"display:inline-block;text-align:center;\" src=\"https://sites-seducaosecretas--staging.decocdn.com/live/invoke/website/loaders/image.ts?src=https%3A%2F%2Fwww.mulhersecreta.com.br%2Fwp-content%2Fwebp-express%2Fwebp-images%2Fuploads%2F2021%2F09%2Fcartoes.png.webp&fit=cover&width=640\">\r\n<br>\r\n<a class=\"botao\" href=\"https://go.hotmart.com/I84464344X\" target=\"_blank\">QUERO ACESSO AO SEDUÇÃO SECRETA AGORA!</a>\r\n",
       "placement": "left",
       "cta": [],
       "description": "  "
